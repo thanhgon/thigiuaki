@@ -36,11 +36,7 @@ val products = listOf(
     Product("Áo khoác gió 1 lớp mũ liền", "95% Cotton, 5% Spandex", "$12.99", R.drawable.aonam, "Áo khoác gió công nghệ Smart-Tech, cản gió, chống thấm nước."),
     Product("Áo khoác da lộn basic cổ cao ", "100% Polyester", "$15.99", R.drawable.aonam2, "Áo khoác gió công nghệ Smart-Tech, cản gió, chống thấm nước."),
     Product("Áo khoác Puffer cổ cao", "95% Rayon, 5% Spandex", "$20.99", R.drawable.aonam3, "Áo khoác gió công nghệ Smart-Tech, cản gió, chống thấm nước."),
-    Product("Áo Phông dài tay giữ nhiệt", "Lightweight fabric", "$30.99", R.drawable.aonam4, "Áo khoác gió công nghệ Smart-Tech, cản gió, chống thấm nước."),
-    Product("DANYOUY Womens T Shirt", "95% Cotton, 5% Spandex", "$12.99", R.drawable.ad, "A comfortable casual t-shirt with soft fabric."),
-    Product("Opna Women's Short Sleeve", "100% Polyester", "$15.99", R.drawable.ad, "Lightweight and breathable short sleeve shirt."),
-    Product("MBJ Women's Solid Short", "95% Rayon, 5% Spandex", "$20.99", R.drawable.ad, "Stylish and stretchable solid short sleeve."),
-    Product("Rain Jacket Women", "Lightweight fabric", "$30.99", R.drawable.ad, "Perfect for rainy days with water-resistant material.")
+    Product("Áo Phông dài tay giữ nhiệt", "Lightweight fabric", "$30.99", R.drawable.aonam4, "Áo khoác gió công nghệ Smart-Tech, cản gió, chống thấm nước.")
 )
 
 @OptIn(ExperimentalMaterial3Api::class)
